@@ -20,5 +20,3 @@ EDA проекта на датасете **Brazilian E-Commerce Public Dataset b
 - `numpy` — работа с числовыми признаками
 - `matplotlib` — базовая визуализация
 - `seaborn` — графики распределений, barplot, scatterplot, heatmap
-- `datetime features` — работа с датами и временными признаками
-- `feature engineering` — создание логистических, товарных и платежных признаков
